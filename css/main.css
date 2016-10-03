@@ -1,20 +1,24 @@
-body{
-	background-color: #fdf6e3;
+body {
+  background-color: #fdf6e3;
 }
 
 header {
-	font-size: 1.5rem;
+  font-size: 1.5rem;
 }
 
-footer p{
-	font-size: 1.5rem;
+footer p {
+  font-size: 1.5rem;
 }
 
 nav ul {
-	font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 header h1 {
-	text-transform: uppercase;
+  text-transform: uppercase;
+}
+
+main {
+	background-color: #eee8d5;
 }
 
