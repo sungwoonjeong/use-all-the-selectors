@@ -22,14 +22,14 @@ main {
   background-color: #eee8d5;
 }
 
+main div dfn {
+  color: #fff;
+}
+
 #contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
-.dfn {
+main h2 + div {
   background-color: #b58900;
-}
-
-h2  div #dfn {
-  color: #fff;
 }
