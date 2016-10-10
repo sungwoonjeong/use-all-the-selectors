@@ -33,3 +33,7 @@ main div dfn {
 main h2 + div {
   background-color: #b58900;
 }
+
+header ul mark {
+  background-color: #719e07;
+}
