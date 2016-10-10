@@ -49,3 +49,7 @@ main ol li:first-child {
 main ol li:last-child {
   color: #2aa198;
 }
+
+.types li:nth-child(odd) {
+  background-color: #657ba3;
+}
