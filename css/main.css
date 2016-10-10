@@ -37,3 +37,11 @@ main h2 + div {
 header ul mark {
   background-color: #719e07;
 }
+
+main ul li:last-child {
+  background-color: #2694d8;
+}
+
+main ol li:first-child{
+  color: #719e47;
+}
