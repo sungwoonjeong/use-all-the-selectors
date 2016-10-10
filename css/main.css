@@ -19,17 +19,17 @@ header h1 {
 }
 
 main {
-	background-color: #eee8d5;
+  background-color: #eee8d5;
 }
 
 #contents, #favs, #facts, #types {
-	color: #93a1a1;
+  color: #93a1a1;
 }
 
- .dfn {
-	background-color: #b58900;
+.dfn {
+  background-color: #b58900;
 }
 
 h2  div #dfn {
-	color: #fff;
+  color: #fff;
 }
