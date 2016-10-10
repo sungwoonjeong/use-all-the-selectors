@@ -26,6 +26,10 @@ main {
 	color: #93a1a1;
 }
 
-.dfn {
+ .dfn {
 	background-color: #b58900;
+}
+
+h2  div #dfn {
+	color: #fff;
 }
